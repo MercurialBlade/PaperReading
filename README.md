@@ -65,5 +65,3 @@ Language Generation, Translation, and Comprehension
 # Prompt
 * https://github.com/thunlp/PromptPapers
 
-# Big model
-* [A Roadmap for Big Model](https://arxiv.org/abs/2203.14101)
