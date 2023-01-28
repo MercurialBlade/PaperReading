@@ -65,3 +65,28 @@ Language Generation, Translation, and Comprehension
 # Prompt
 * https://github.com/thunlp/PromptPapers
 
+# Multi-Modal
+## Pre-training
+* Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks
+* UNITER: UNiversal Image-TExt Representation Learning
+* ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision
+* UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning
+* Learning Transferable Visual Models From Natural Language Supervision
+* VL-BEIT: Generative Vision-Language Pretraining
+* SimVLM: Simple Visual Language Model Pretraining with Weak Supervision
+## Text-Image Retrieval
+* Flickr30k Entities: Collecting Region-to-Phrase Correspondences for Richer Image-to-Sentence Models
+* Microsoft COCO Captions: Data Collection and Evaluation Server
+* ViSTA: Vision and Scene Text Aggregation for Cross-Modal Retrieval
+* COTS: Collaborative Two-Stream Vision-Language Pre-Training Model for Cross-Modal Retrieval
+## Text-Video Retrieval
+* MSR-VTT: A Large Video Description Dataset for Bridging Video and Language
+* Collecting Highly Parallel Data for Paraphrase Evaluation
+* Movie Description
+* X-Pool: Cross-Modal Language-Video Attention for Text-Video Retrieval
+* Bridging Video-text Retrieval with Multiple Choice Questions
+## Multi-Modal Retrieval
+* LAION-400M: Open Dataset of CLIP-Filtered 400 Million Image-Text Pairs
+* WebQA: Multihop and Multimodal QA
+* MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text
+
